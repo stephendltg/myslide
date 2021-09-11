@@ -1,5 +1,4 @@
 ---
-download: true
 # try also 'default' to start simple
 # theme: seriph
 # random image from a curated Unsplash collection by Anthony
