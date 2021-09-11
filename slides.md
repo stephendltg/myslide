@@ -1,4 +1,5 @@
 ---
+download: true
 # try also 'default' to start simple
 # theme: seriph
 # random image from a curated Unsplash collection by Anthony
@@ -20,5 +21,16 @@ info: |
 
 Presentation slides for developers
 
-testtest
+Hello, i stephendltg!
+
+---
+
+# Test
+
+Directly use code blocks for highlighting
+
+```ts
+console.log('Hello, World!')
+```
+
 
